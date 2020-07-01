@@ -13,4 +13,5 @@ Areas covered
 - Aggregation manipulation (group by...)
 - Window manipulation (dense_rank...)
 - String manipulation (upper, lower, concatenate...)
+- Reading data from MySQL database
 - Join manipulation (inner join...)
